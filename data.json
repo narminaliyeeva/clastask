@@ -1,0 +1,58 @@
+{
+  "meals": [
+    {
+      "id": "1",
+      "name": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 23.5,
+      "content": "Grilled Beef with potatoes"
+    },
+    {
+      "id": "2",
+      "name": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 23.5,
+      "content": "Fruit Vanilla Ice Cream"
+    },
+    {
+      "id": "3",
+      "name": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 23.5,
+      "content": "Asian Hoisin Pork"
+    },
+    {
+      "id": "4",
+      "name": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 23.5,
+      "content": "Spicy Fried Rice & Bacon"
+    },
+    {
+      "id": "5",
+      "name": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 23.5,
+      "content": "Mango Chili Chutney"
+    },
+    {
+      "id": "6",
+      "name": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 23.5,
+      "content": "Savory Watercress Chinese Pancakes"
+    },
+    {
+      "id": "7",
+      "name": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 23.5,
+      "content": "Soup With Vegetables And Meat"
+    },
+    {
+      "id": "8",
+      "name": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 23.5,
+      "content": "Udon Noodles With Vegetables"
+    },
+    {
+      "id": "9",
+      "name": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 23.5,
+      "content": "Baked Lobster With A Garnish"
+    }
+  ]
+}
